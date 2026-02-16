@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AI-assisted-Webpage/1.0.0": {
+        "runtime": {
+          "AI-assisted-Webpage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AI-assisted-Webpage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

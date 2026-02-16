@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/AI-assisted-Webpage.props" />
+</Project>
